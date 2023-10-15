@@ -26,3 +26,6 @@ public class Q2_1069 {
             System.out.println(maxCount);
         }
     }
+//Name- Anku kumar
+//Registration Number- 2241011106
+//Problem Link -https://cses.fi/problemset/task/1069
