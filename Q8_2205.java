@@ -42,3 +42,6 @@ public class Q8_2205 {
         generateGrayCode(n);
     }
 }
+//Name- Anku kumar
+//Registration Number- 2241011106
+//Problem Link -https://cses.fi/problemset/task/2205
