@@ -16,3 +16,6 @@ public class Q5_1072 {
         return (long) k * k * (k * k - 1) / 2 - 4 * (k - 1) * (k - 2);
     }
 }
+//Name- Anku kumar
+//Registration Number- 2241011106
+//Problem Link -https://cses.fi/problemset/task/1072
