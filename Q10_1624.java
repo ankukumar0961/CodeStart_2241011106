@@ -54,3 +54,6 @@ public class Q10_1624 {
         return true;
     }
 }
+//Name- Anku kumar
+//Registration Number- 2241011106
+//Problem Link - https://cses.fi/problemset/task/1624
